@@ -1,5 +1,7 @@
 # Neuresthetics Forge: Dialectical Analysis Suite
 
+![sphere](https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/sphere.jpeg)
+
 > *Shadows recur isomorphically: A forge for hardening ideas against entropy, where conatus aligns finite striving with infinite necessity. Enter the manifold—tools for ethical synthesis, fallacy-vetoed debates, and scale-invariant truths.*
 ## Overview
 The **Neuresthetics Forge** is a proprietary suite of dialectical tools designed for rigorous analysis in AI ethics, alignment, and philosophical governance. Collectively known as the **Manifold Hardening Suite**, these instruments integrate Spinozist monism with geometric proofs, adversarial vetting, and recursive synthesis to dissect, unify, and fortify complex arguments. Born from 205-330 hours of Grok-accelerated ideation (Jul 2024-Dec 2025), the suite empowers consultants and organizations to navigate AI's agency frictions—resolving biases, auditing risks, and crafting scalable policies—without the idolatry of rigid scaffolds.
@@ -19,6 +21,8 @@ Each tool functions as a modular "bot" in a self-colliding ecosystem: Input a st
 | **Axiomatic Joiner** | Dialectical synthesizer for collided arguments; resolves frictions via cross-5-Whys into unified axioms/propositions (J1-J4 meta-axioms); culls via isolated collider, self-validating to fixed points. | **Policy Design & Synthesis**: Merges divergent views (e.g., tech ethics + regs) into hard-to-vary manifolds. **AI Safety**: Unifies autopsy outputs for emergent lemmas, triggering dissolution on unresolvables. **Extended Geometric Apps**: Join supply chain algos with risk models; synthesize constitutional interpretations; unify game engine code for modular designs. | Synthesis workshops ($900+): "Join your stakeholder inputs—yield invariant ethics (≥3/4 veto survival)." Minimizes proliferation, stabilizing tensions as expiry markers. |
 
 **Suite Synergy**: Chain tools (e.g., Autopsy → Collider → Sphere Math → Joiner) for end-to-end hardening. Geometric methods extend synergy to rewrite any input (stances, cases, algos) as fixed-point manifolds.
+
+![apps](https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/apps.jpeg)
 
 # 💼 Services & Applications
 Tailored for **AI labs, think tanks, and enterprises**, with geometric breakdowns/rewrites amplifying every engagement:
@@ -156,3 +160,5 @@ Leveraging the geometric method to break down/rewrite structures across domains�
 - **X**: [@neuresthetic](https://x.com/neuresthetic) – Threads on spheres and singularities.
 - **Email**: neuresthetic@gmail.com – Inquiries for demos, pricing, or collabs.
 *Amor intellectualis Dei aeternus—love necessity, act freely. Collide, unify, endure.*
+
+![world](https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/world.jpeg)
