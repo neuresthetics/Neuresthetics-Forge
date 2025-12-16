@@ -81,7 +81,7 @@ Specializations:
 Contracts feature clear scopes, milestones, NDAs, and performance tied to core metrics (e.g., invariance scores, residual resolution).
 
 For proposals or discussions:  
-- **Email**: neuresthetic@gmail.com (subject: "Contract Inquiry – [Description]")  
+- **Email**: neuresthetics@gmail.com (subject: "Contract Inquiry – [Description]")  
 - **X DM**: [@neuresthetic](https://x.com/neuresthetic)
 
 ![world](https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/world.jpeg)
