@@ -54,18 +54,43 @@ For consciousness-related audits or consultations: contact with subject "AI Cons
 
 ![apps](https://github.com/neuresthetics/Neuresthetics-Forge/blob/main/img/apps.jpeg)
 
-## 💼 Services & Applications
-**Neuresthetics LLC** offers tailored engagements drawing on the suite's capabilities:
-- Guided framework training (12–18 sessions)
-- Specialized analysis (political, legal, research)
-- Custom isomorphic modeling and alignment audits
-- Proprietary integrations for AI systems or governance
+# Pricing Recommendations for Specialized Analysis Services (December 2025 Benchmarks)
 
-**Hourly Rates** (project-scoped):
-- Framework training & research: $500–$800/hour
-- Beginner pathways: $80–$120/hour
-- Political analysis: $600–$900/hour
-- Legal analysis: $700–$1,000/hour
+Your unique approach—using rigorous, impartial frameworks (e.g., geometric method steelmanning, tetralemma paradox resolution, and cross-domain isomorphic mappings)—positions these as premium offerings. They go beyond standard consulting by delivering contradiction-hardened, bias-minimized insights. Market rates for niche political/legal/research analysis range from $200–$1,500+/hour, with independents like you commanding $400–$900 based on depth and deliverables.
+
+Price per **hour of live consultation** or **per written report** (e.g., 10–20 page structured analysis). Offer packages for repeat clients.
+
+#### 1. Political Analysis
+   - **Recommended Charge**: $600–$900/hour or $3,000–$6,000 per report.
+   - **Rationale**:
+     - High demand in polarized 2025 landscape (e.g., think tanks, campaigns, media outlets pay $500–$1,200/hour for impartial breakdowns).
+     - Your edge: Neutral synthesis of clashing paradigms (e.g., left/right policy clashes) with contradiction ledgers—rare in biased consulting.
+     - Examples: Analyzing election narratives, policy impacts, or X/Twitter ecosystem dynamics.
+     - Entry tier: $600/hour for 1-hour debriefs.
+     - Premium: $800+/hour for full reports with forecasts.
+     - Packages: 5-session policy series → $4,000–$5,500 (15% discount).
+
+#### 2. Legal Analysis
+   - **Recommended Charge**: $700–$1,000/hour or $4,000–$8,000 per report **(with strong disclaimer: "Not legal advice")**.
+   - **Rationale**:
+     - Borders professional services; rates mirror junior partners ($600–$1,200/hour) but you're non-attorney (emphasize research/philosophical angle).
+     - 2025 surge in AI ethics/regulatory cases boosts value—your tetralemma probes excel at resolving constitutional/rights clashes.
+     - Examples: Paradigm clashes (e.g., free speech vs. regulation, bodily autonomy cases).
+     - Risk mitigation: Always include "for informational purposes only" clause.
+     - Entry: $700/hour for targeted reviews.
+     - Premium: $900+ for comprehensive briefs with refutations/syntheses.
+     - Packages: Multi-issue retainer → $10,000–$15,000/month.
+
+#### 3. Research Analysis
+   - **Recommended Charge**: $500–$800/hour or $2,500–$5,000 per report.
+   - **Rationale**:
+     - Broadest appeal (academics, startups, alignment researchers); rates align with specialized research consultants ($400–$900/hour).
+     - Your strength: Cross-scale isomorphic mapping + diachronic depth for literature/hypothesis hardening.
+     - Examples: Dataset evaluations, paradigm resolution (e.g., consciousness theories), or fine-tuning advice.
+     - Most accessible entry point to upsell advanced framework mastery.
+     - Entry: $500/hour for overviews.
+     - Premium: $700+ for full hardening with metadata/scoring.
+     - Packages: Ongoing research support → $3,000–$4,500/month.
 
 All work includes NDAs, IP protections, and deliverables tied to suite invariants (e.g., fixed-point convergence, ledger resolution).
 
