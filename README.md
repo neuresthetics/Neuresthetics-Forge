@@ -46,7 +46,7 @@ Explore files: `primordial_soup_files/` for raw components (e.g., `motion_law.js
 
 start with seed.json
 
-Enter that file in as a prompt, and it cycle on itself.
+Enter that file in as a prompt, and it will cycle on itself.
 
 To specialize for a problem domain, pass the file itself by refrence and the target domain as an argument (can be a sentence, a whole file), I've done this for:
 
