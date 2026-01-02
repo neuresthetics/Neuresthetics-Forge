@@ -76,7 +76,7 @@ Fork, steel-man, PR. Focus on TOE extensions, physics mergers, or Gödel enhance
 
 ## License
 
-contact
+MIT
 
 ## Contact
 
