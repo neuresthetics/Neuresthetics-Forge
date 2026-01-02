@@ -1,4 +1,4 @@
-# Spinoza Lab: Steelman Research Tool
+# Spinoza Lab: Steelman Research Tool (Gödel machine)
 
 ## Overview
 Spinoza Lab is a suite of tools and models designed for recursive hardening of ideas through structured dialectical testing. It serves as a general-purpose Steelman Research Tool, enabling users to strengthen concepts by reconstructing arguments in their strongest possible form (steelmanning), subjecting them to adversarial challenges, and synthesizing robust, paradox-free outcomes. Built on Neuresthetics principles, it supports both human and AI applications, promoting clearer reasoning, ethical frameworks, and identification of hard-to-vary patterns across domains like logic, science, philosophy, and computation.
